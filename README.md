@@ -2,7 +2,7 @@
 
 A comprehensive full-stack inventory management solution built with Django REST Framework and Next.js, designed to streamline warehouse operations, track products, manage suppliers, and process orders efficiently.
 
-![Project Banner](./docs/images/banner.png)
+![Project Banner](./DashBoard.png)
 
 ## ✨ Features
 
@@ -284,11 +284,5 @@ Contributions are welcome! Please follow these steps:
 
 
 
-## 🙏 Acknowledgments
-
-- Django REST Framework for the powerful backend API
-- Next.js team for the amazing React framework
-- shadcn/ui for beautiful UI components
-- All contributors who help improve this project
 
 
