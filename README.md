@@ -185,24 +185,24 @@ Inventory Management System/
 
 
 ### Dashboard
-![Dashboard](./docs/images/dashboard.png)
+![Dashboard](./dashboard.png)
 *Main dashboard with inventory overview and quick stats*
 
 ### Product Management
-![Products](./docs/images/products.png)
+![Products](./product.png)
 *Manage products with search, filter, and CRUD operations*
 
-### Order Management
-![Orders](./docs/images/orders.png)
-*Track and manage orders with status updates*
 
 ### Warehouse View
-![Warehouses](./docs/images/warehouses.png)
+![Warehouses](./warehouse.png)
 *Multi-warehouse inventory tracking*
 
 ### Sales Interface
-![Sales](./docs/images/sales.png)
+![Sales](./sales.png)
 *Record and track sales transactions*
+
+### USERS MANAGEMENT
+![UsersManagement](./UserManagement.png)
 
 ## 🔌 API Endpoints
 
