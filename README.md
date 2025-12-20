@@ -180,6 +180,10 @@ Inventory Management System/
 
 ## 📸 Screenshots
 
+### LOG IN
+![Dashboard](./Login.png)
+
+
 ### Dashboard
 ![Dashboard](./docs/images/dashboard.png)
 *Main dashboard with inventory overview and quick stats*
