@@ -185,7 +185,7 @@ Inventory Management System/
 
 
 ### Dashboard
-![Dashboard](./dashboard.png)
+![Dashboard](./DashBoard.png)
 *Main dashboard with inventory overview and quick stats*
 
 ### Product Management
@@ -194,11 +194,11 @@ Inventory Management System/
 
 
 ### Warehouse View
-![Warehouses](./warehouse.png)
+![Warehouses](./Warehouse.png)
 *Multi-warehouse inventory tracking*
 
 ### Sales Interface
-![Sales](./sales.png)
+![Sales](./SALES.png)
 *Record and track sales transactions*
 
 ### USERS MANAGEMENT
