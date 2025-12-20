@@ -189,7 +189,7 @@ Inventory Management System/
 *Main dashboard with inventory overview and quick stats*
 
 ### Product Management
-![Products](./product.png)
+![Products](./Product.png)
 *Manage products with search, filter, and CRUD operations*
 
 
