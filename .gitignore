@@ -1,0 +1,73 @@
+# Desktop files
+desktop.ini
+Thumbs.db
+.DS_Store
+
+# Django Backend
+back-end/**/*.pyc
+back-end/**/__pycache__/
+back-end/**/db.sqlite3
+back-end/**/db.sqlite3-journal
+back-end/**/*.log
+back-end/**/*.pot
+back-end/**/*.py[cod]
+back-end/**/*$py.class
+back-end/**/.Python
+back-end/**/build/
+back-end/**/develop-eggs/
+back-end/**/dist/
+back-end/**/downloads/
+back-end/**/eggs/
+back-end/**/.eggs/
+back-end/**/lib/
+back-end/**/lib64/
+back-end/**/parts/
+back-end/**/sdist/
+back-end/**/var/
+back-end/**/wheels/
+back-end/**/*.egg-info/
+back-end/**/.installed.cfg
+back-end/**/*.egg
+back-end/**/media/
+back-end/**/staticfiles/
+back-end/**/.env
+back-end/**/*.env
+back-end/**/venv/
+back-end/**/ENV/
+back-end/**/env/
+
+# Next.js Frontend
+front-end/**/.next/
+front-end/**/out/
+front-end/**/node_modules/
+front-end/**/.env.local
+front-end/**/.env.development.local
+front-end/**/.env.test.local
+front-end/**/.env.production.local
+front-end/**/*.log
+front-end/**/npm-debug.log*
+front-end/**/yarn-debug.log*
+front-end/**/yarn-error.log*
+front-end/**/.vercel
+front-end/**/.turbo
+
+# Database
+database/**/*.db
+database/**/*.sqlite
+database/**/*.sqlite3
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# OS generated files
+*.log
+.DS_Store
