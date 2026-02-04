@@ -80,7 +80,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'inventory_management_system_database',
         'USER': 'root',
-        'PASSWORD': 'JL041405',
+        'PASSWORD': '***8',
         'HOST': 'localhost',  # Or your MySQL server IP
         'PORT': '3306',       # Default MySQL port
     }
